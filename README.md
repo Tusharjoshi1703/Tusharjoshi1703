@@ -2,7 +2,7 @@
 🔭 I’m currently working on Full Stack project<br>👯 I’m looking to collaborate on Open-Source projects<br>🤝 I’m looking for help with Backend Services<br>🌱 I’m currently learning NextJS<br>💬 Ask me about Web Related<br>
 
 # 💼 My Portfolio:
-([My Portfolio](https://tusharjoshi-portfolio.netlify.app/)) 
+[See my Portfolio](https://tusharjoshi-portfolio.netlify.app/)
 
 
 
